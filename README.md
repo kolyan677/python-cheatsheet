@@ -3595,3 +3595,4 @@ Index
 * **Click on the title's `'🔗'` to get a link to its section.**
 Branch1: изменение 1
 Branch1: изменение 2
+Branch1: изменение 3
