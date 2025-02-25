@@ -3600,3 +3600,4 @@ Branch1: новое изменение 4
 Branch1: новое изменение 5
 Branch1: новое изменение 6
 New clone - branch1: изменение A
+New clone - branch1: изменение B
